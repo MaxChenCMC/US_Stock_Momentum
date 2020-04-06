@@ -1,0 +1,506 @@
+Symbol,Name
+MSFT,Microsoft Corporation
+AAPL,Apple Inc.
+AMZN,Amazon.com Inc.
+FB,Facebook Inc. Class A
+JNJ,Johnson & Johnson
+GOOG,Alphabet Inc. Class C
+GOOGL,Alphabet Inc. Class A
+PG,Procter & Gamble Company
+JPM,JPMorgan Chase & Co.
+V,Visa Inc. Class A
+INTC,Intel Corporation
+VZ,Verizon Communications Inc.
+UNH,UnitedHealth Group Incorporated
+MA,Mastercard Incorporated Class A
+T,AT&T Inc.
+HD,Home Depot Inc.
+MRK,Merck & Co. Inc.
+PFE,Pfizer Inc.
+PEP,PepsiCo Inc.
+WMT,Walmart Inc.
+DIS,Walt Disney Company
+KO,Coca-Cola Company
+XOM,Exxon Mobil Corporation
+CSCO,Cisco Systems Inc.
+BAC,Bank of America Corp
+NFLX,Netflix Inc.
+CMCSA,Comcast Corporation Class A
+NVDA,NVIDIA Corporation
+ADBE,Adobe Inc.
+CVX,Chevron Corporation
+ABT,Abbott Laboratories
+BMY,Bristol-Myers Squibb Company
+COST,Costco Wholesale Corporation
+AMGN,Amgen Inc.
+MCD,McDonald's Corporation
+CRM,salesforce.com inc.
+LLY,Eli Lilly and Company
+MDT,Medtronic Plc
+PM,Philip Morris International Inc.
+TMO,Thermo Fisher Scientific Inc.
+ABBV,AbbVie Inc.
+PYPL,PayPal Holdings Inc
+NEE,NextEra Energy Inc.
+ORCL,Oracle Corporation
+WFC,Wells Fargo & Company
+GILD,Gilead Sciences Inc.
+AMT,American Tower Corporation
+NKE,NIKE Inc. Class B
+ACN,Accenture Plc Class A
+UNP,Union Pacific Corporation
+IBM,International Business Machines Corporation
+TXN,Texas Instruments Incorporated
+AVGO,Broadcom Inc.
+HON,Honeywell International Inc.
+LIN,Linde plc
+LMT,Lockheed Martin Corporation
+DHR,Danaher Corporation
+C,Citigroup Inc.
+MMM,3M Company
+SBUX,Starbucks Corporation
+QCOM,QUALCOMM Incorporated
+MDLZ,Mondelez International Inc. Class A
+RTX,Raytheon Technologies Corporation
+CVS,CVS Health Corporation
+FIS,Fidelity National Information Services Inc.
+MO,Altria Group Inc
+CHTR,Charter Communications Inc. Class A
+BA,Boeing Company
+CAT,Caterpillar Inc.
+UPS,United Parcel Service Inc. Class B
+LOW,Lowe's Companies Inc.
+CME,CME Group Inc. Class A
+BDX,Becton Dickinson and Company
+VRTX,Vertex Pharmaceuticals Incorporated
+CI,Cigna Corporation
+CCI,Crown Castle International Corp
+GE,General Electric Company
+SPGI,S&P Global Inc.
+CL,Colgate-Palmolive Company
+AGN,Allergan plc
+D,Dominion Energy Inc
+INTU,Intuit Inc.
+ADP,Automatic Data Processing Inc.
+DUK,Duke Energy Corporation
+ZTS,Zoetis Inc. Class A
+PLD,Prologis Inc.
+BIIB,Biogen Inc.
+ISRG,Intuitive Surgical Inc.
+EQIX,Equinix Inc.
+SO,Southern Company
+ANTM,Anthem Inc.
+BKNG,Booking Holdings Inc.
+AMD,Advanced Micro Devices Inc.
+TJX,TJX Companies Inc
+AXP,American Express Company
+BLK,BlackRock Inc.
+FISV,Fiserv Inc.
+NOC,Northrop Grumman Corporation
+SYK,Stryker Corporation
+NOW,ServiceNow Inc.
+TGT,Target Corporation
+GS,Goldman Sachs Group Inc.
+CB,Chubb Limited
+ATVI,Activision Blizzard Inc.
+MU,Micron Technology Inc.
+ICE,Intercontinental Exchange Inc.
+KMB,Kimberly-Clark Corporation
+PGR,Progressive Corporation
+USB,U.S. Bancorp
+CSX,CSX Corporation
+BSX,Boston Scientific Corporation
+DE,Deere & Company
+BAX,Baxter International Inc.
+DG,Dollar General Corporation
+APD,Air Products and Chemicals Inc.
+ITW,Illinois Tool Works Inc.
+MMC,Marsh & McLennan Companies Inc.
+LHX,L3Harris Technologies Inc
+REGN,Regeneron Pharmaceuticals Inc.
+MS,Morgan Stanley
+EW,Edwards Lifesciences Corporation
+AMAT,Applied Materials Inc.
+ILMN,Illumina Inc.
+HUM,Humana Inc.
+NEM,Newmont Corporation
+SCHW,Charles Schwab Corporation
+GPN,Global Payments Inc.
+PNC,PNC Financial Services Group Inc.
+NSC,Norfolk Southern Corporation
+ECL,Ecolab Inc.
+TFC,Truist Financial Corporation
+COP,ConocoPhillips
+AON,Aon Plc Class A
+AEP,American Electric Power Company Inc.
+DLR,Digital Realty Trust Inc.
+WM,Waste Management Inc.
+SHW,Sherwin-Williams Company
+EL,Estee Lauder Companies Inc. Class A
+GIS,General Mills Inc.
+MCO,Moody's Corporation
+ADI,Analog Devices Inc.
+EXC,Exelon Corporation
+CNC,Centene Corporation
+LRCX,Lam Research Corporation
+ROP,Roper Technologies Inc.
+TMUS,T-Mobile US Inc.
+WBA,Walgreens Boots Alliance Inc
+ADSK,Autodesk Inc.
+XEL,Xcel Energy Inc.
+EA,Electronic Arts Inc.
+SBAC,SBA Communications Corp. Class A
+ETN,Eaton Corp. Plc
+SRE,Sempra Energy
+GD,General Dynamics Corporation
+PSA,Public Storage
+BK,Bank of New York Mellon Corporation
+ALL,Allstate Corporation
+EMR,Emerson Electric Co.
+ROST,Ross Stores Inc.
+WEC,WEC Energy Group Inc
+FDX,FedEx Corporation
+KMI,Kinder Morgan Inc Class P
+ED,Consolidated Edison Inc.
+KR,Kroger Co.
+INFO,IHS Markit Ltd.
+ES,Eversource Energy
+TRV,Travelers Companies Inc.
+AFL,Aflac Incorporated
+CTSH,Cognizant Technology Solutions Corporation Class A
+DD,DuPont de Nemours Inc.
+EOG,EOG Resources Inc.
+VRSK,Verisk Analytics Inc
+PSX,Phillips 66
+MSCI,MSCI Inc. Class A
+GM,General Motors Company
+EBAY,eBay Inc.
+ORLY,O'Reilly Automotive Inc.
+CLX,Clorox Company
+PEG,Public Service Enterprise Group Inc
+TROW,T. Rowe Price Group
+STZ,Constellation Brands Inc. Class A
+RMD,ResMed Inc.
+A,Agilent Technologies Inc.
+MSI,Motorola Solutions Inc.
+HCA,HCA Healthcare Inc
+MET,MetLife Inc.
+HPQ,HP Inc.
+PCAR,PACCAR Inc
+HSY,Hershey Company
+DOW,Dow Inc.
+MNST,Monster Beverage Corporation
+FE,FirstEnergy Corp.
+AWK,American Water Works Company Inc.
+BLL,Ball Corporation
+APH,Amphenol Corporation Class A
+CMI,Cummins Inc.
+MCK,McKesson Corporation
+KLAC,KLA Corporation
+SYY,Sysco Corporation
+WLTW,Willis Towers Watson Public Limited Company
+IDXX,IDEXX Laboratories Inc.
+XLNX,Xilinx Inc.
+ALXN,Alexion Pharmaceuticals Inc.
+SLB,Schlumberger NV
+COF,Capital One Financial Corporation
+JCI,Johnson Controls International plc
+TEL,TE Connectivity Ltd.
+CERN,Cerner Corporation
+ADM,Archer-Daniels-Midland Company
+OTIS,Otis Worldwide Corporation
+TT,Trane Technologies plc
+YUM,Yum! Brands Inc.
+STT,State Street Corporation
+PPG,PPG Industries Inc.
+ZBH,Zimmer Biomet Holdings Inc.
+PAYX,Paychex Inc.
+EQR,Equity Residential
+VRSN,VeriSign Inc.
+AZO,AutoZone Inc.
+ANSS,ANSYS Inc.
+IQV,IQVIA Holdings Inc
+SNPS,Synopsys Inc.
+PRU,Prudential Financial Inc.
+AVB,AvalonBay Communities Inc.
+CDNS,Cadence Design Systems Inc.
+MKC,McCormick & Company Incorporated
+TWTR,Twitter Inc.
+AIG,American International Group Inc.
+EIX,Edison International
+FAST,Fastenal Company
+ROK,Rockwell Automation Inc.
+CTVA,Corteva Inc
+DTE,DTE Energy Company
+PPL,PPL Corporation
+AEE,Ameren Corporation
+DLTR,Dollar Tree Inc.
+VLO,Valero Energy Corporation
+ETR,Entergy Corporation
+CHD,Church & Dwight Co. Inc.
+F,Ford Motor Company
+WMB,Williams Companies Inc.
+NTRS,Northern Trust Corporation
+CTXS,Citrix Systems Inc.
+AME,AMETEK Inc.
+MAR,Marriott International Inc. Class A
+VFC,V.F. Corporation
+FTV,Fortive Corp.
+ARE,Alexandria Real Estate Equities Inc.
+FLT,FleetCor Technologies Inc.
+TSN,Tyson Foods Inc. Class A
+K,Kellogg Company
+HLT,Hilton Worldwide Holdings Inc
+KHC,Kraft Heinz Company
+CMG,Chipotle Mexican Grill Inc.
+CMS,CMS Energy Corporation
+KEYS,Keysight Technologies Inc
+AKAM,Akamai Technologies Inc.
+MTD,Mettler-Toledo International Inc.
+RSG,Republic Services Inc.
+MCHP,Microchip Technology Incorporated
+CAG,Conagra Brands Inc.
+WELL,Welltower Inc.
+O,Realty Income Corporation
+PH,Parker-Hannifin Corporation
+MKTX,MarketAxess Holdings Inc.
+LUV,Southwest Airlines Co.
+FTNT,Fortinet Inc.
+SWK,Stanley Black & Decker Inc.
+SPG,Simon Property Group Inc.
+AJG,Arthur J. Gallagher & Co.
+INCY,Incyte Corporation
+GLW,Corning Inc
+FRC,First Republic Bank
+TIF,Tiffany & Co.
+CARR,Carrier Global Corp.
+COO,Cooper Companies Inc.
+SWKS,Skyworks Solutions Inc.
+CAH,Cardinal Health Inc.
+CTAS,Cintas Corporation
+TFX,Teleflex Incorporated
+HRL,Hormel Foods Corporation
+TDG,TransDigm Group Incorporated
+TTWO,Take-Two Interactive Software Inc.
+MXIM,Maxim Integrated Products Inc.
+VMC,Vulcan Materials Company
+MPC,Marathon Petroleum Corporation
+DAL,Delta Air Lines Inc.
+LVS,Las Vegas Sands Corp.
+EFX,Equifax Inc.
+SJM,J.M. Smucker Company
+AMCR,Amcor PLC
+CPRT,Copart Inc.
+CDW,CDW Corp.
+ESS,Essex Property Trust Inc.
+EXR,Extra Space Storage Inc.
+PXD,Pioneer Natural Resources Company
+ABC,AmerisourceBergen Corporation
+KSU,Kansas City Southern
+BBY,Best Buy Co. Inc.
+MTB,M&T Bank Corporation
+HPE,Hewlett Packard Enterprise Co.
+BXP,Boston Properties Inc.
+CBRE,CBRE Group Inc. Class A
+JKHY,Jack Henry & Associates Inc.
+LYB,LyondellBasell Industries NV
+EVRG,Evergy Inc.
+STE,STERIS Plc
+LDOS,Leidos Holdings Inc.
+ODFL,Old Dominion Freight Line Inc.
+WAT,Waters Corporation
+OXY,Occidental Petroleum Corporation
+HIG,Hartford Financial Services Group Inc.
+IP,International Paper Company
+EXPD,Expeditors International of Washington Inc.
+AMP,Ameriprise Financial Inc.
+WY,Weyerhaeuser Company
+ATO,Atmos Energy Corporation
+DOV,Dover Corporation
+WDC,Western Digital Corporation
+APTV,Aptiv PLC
+LH,Laboratory Corporation of America Holdings
+ALGN,Align Technology Inc.
+NDAQ,Nasdaq Inc.
+DRE,Duke Realty Corporation
+LNT,Alliant Energy Corp
+NUE,Nucor Corporation
+XYL,Xylem Inc.
+DHI,D.R. Horton Inc.
+OMC,Omnicom Group Inc
+CINF,Cincinnati Financial Corporation
+J,Jacobs Engineering Group Inc.
+MAA,Mid-America Apartment Communities Inc.
+ANET,Arista Networks Inc.
+STX,Seagate Technology PLC
+IFF,International Flavors & Fragrances Inc.
+BR,Broadridge Financial Solutions Inc.
+MLM,Martin Marietta Materials Inc.
+GWW,W.W. Grainger Inc.
+NLOK,NortonLifeLock Inc.
+IEX,IDEX Corporation
+GRMN,Garmin Ltd.
+CBOE,Cboe Global Markets Inc
+PEAK,Healthpeak Properties Inc.
+DGX,Quest Diagnostics Incorporated
+ZBRA,Zebra Technologies Corporation Class A
+FITB,Fifth Third Bancorp
+CXO,Concho Resources Inc.
+TSCO,Tractor Supply Company
+LEN,Lennar Corporation Class A
+CHRW,C.H. Robinson Worldwide Inc.
+UDR,UDR Inc.
+MAS,Masco Corporation
+FMC,FMC Corporation
+FCX,Freeport-McMoRan Inc.
+ULTA,Ulta Beauty Inc
+DFS,Discover Financial Services
+KEY,KeyCorp
+OKE,ONEOK Inc.
+HOLX,Hologic Inc.
+VAR,Varian Medical Systems Inc.
+CTL,CenturyLink Inc.
+HES,Hess Corporation
+QRVO,Qorvo Inc.
+NTAP,NetApp Inc.
+HAS,Hasbro Inc.
+GPC,Genuine Parts Company
+L,Loews Corporation
+CPB,Campbell Soup Company
+NI,NiSource Inc
+VTR,Ventas Inc.
+NVR,NVR Inc.
+IT,Gartner Inc.
+PAYC,Paycom Software Inc.
+CE,Celanese Corporation
+IR,Ingersoll Rand Inc.
+KMX,CarMax Inc.
+AES,AES Corporation
+WAB,Westinghouse Air Brake Technologies Corporation
+XRAY,DENTSPLY SIRONA Inc.
+AVY,Avery Dennison Corporation
+PKI,PerkinElmer Inc.
+ALLE,Allegion PLC
+FOXA,Fox Corporation Class A
+RF,Regions Financial Corporation
+ETFC,E*TRADE Financial Corporation
+TAP,Molson Coors Beverage Company Class B
+JBHT,J.B. Hunt Transport Services Inc.
+PNW,Pinnacle West Capital Corporation
+PKG,Packaging Corporation of America
+WU,Western Union Company
+HII,Huntington Ingalls Industries Inc.
+SYF,Synchrony Financial
+CFG,Citizens Financial Group Inc.
+LW,Lamb Weston Holdings Inc.
+SIVB,SVB Financial Group
+WRB,W. R. Berkley Corporation
+RE,Everest Re Group Ltd.
+RJF,Raymond James Financial Inc.
+HBAN,Huntington Bancshares Incorporated
+COG,Cabot Oil & Gas Corporation
+MYL,Mylan N.V.
+UHS,Universal Health Services Inc. Class B
+HSIC,Henry Schein Inc.
+URI,United Rentals Inc.
+PFG,Principal Financial Group Inc.
+BKR,Baker Hughes Company Class A
+JNPR,Juniper Networks Inc.
+EXPE,Expedia Group Inc.
+CNP,CenterPoint Energy Inc.
+HAL,Halliburton Company
+VIAC,ViacomCBS Inc. Class B
+NRG,NRG Energy Inc.
+WRK,WestRock Company
+HST,Host Hotels & Resorts Inc.
+GL,Globe Life Inc.
+FFIV,F5 Networks Inc.
+ABMD,ABIOMED Inc.
+IRM,Iron Mountain Inc.
+EMN,Eastman Chemical Company
+AIZ,Assurant Inc.
+PRGO,Perrigo Co. Plc
+DVA,DaVita Inc.
+AAP,Advance Auto Parts Inc.
+TXT,Textron Inc.
+DISCK,Discovery Inc. Class C
+CF,CF Industries Holdings Inc.
+ALB,Albemarle Corporation
+DRI,Darden Restaurants Inc.
+MGM,MGM Resorts International
+REG,Regency Centers Corporation
+LKQ,LKQ Corporation
+SNA,Snap-on Incorporated
+IPG,Interpublic Group of Companies Inc.
+WHR,Whirlpool Corporation
+FANG,Diamondback Energy Inc.
+ROL,Rollins Inc.
+VNO,Vornado Realty Trust
+UAL,United Airlines Holdings Inc.
+AOS,A. O. Smith Corporation
+FBHS,Fortune Brands Home & Security Inc.
+PHM,PulteGroup Inc.
+HWM,Howmet Aerospace Inc.
+DISH,DISH Network Corporation Class A
+PNR,Pentair plc
+LYV,Live Nation Entertainment Inc.
+LNC,Lincoln National Corporation
+WYNN,Wynn Resorts Limited
+NWL,Newell Brands Inc
+FRT,Federal Realty Investment Trust
+AIV,Apartment Investment & Management Co Class A
+RHI,Robert Half International Inc.
+PWR,Quanta Services Inc.
+BEN,Franklin Resources Inc.
+BWA,BorgWarner Inc.
+NLSN,Nielsen Holdings Plc
+PBCT,People's United Financial Inc.
+ZION,Zions Bancorporation N.A.
+FLIR,FLIR Systems Inc.
+RCL,Royal Caribbean Cruises Ltd.
+CMA,Comerica Incorporated
+SEE,Sealed Air Corporation
+NOV,National Oilwell Varco Inc.
+MHK,Mohawk Industries Inc.
+AAL,American Airlines Group Inc.
+IPGP,IPG Photonics Corporation
+MOS,Mosaic Company
+FOX,Fox Corporation Class B
+HFC,HollyFrontier Corporation
+CCL,Carnival Corporation
+DVN,Devon Energy Corporation
+KIM,Kimco Realty Corporation
+XRX,Xerox Holdings Corporation
+SLG,SL Green Realty Corp.
+NWSA,News Corporation Class A
+TPR,Tapestry Inc.
+DXC,DXC Technology Co.
+FLS,Flowserve Corporation
+ALK,Alaska Air Group Inc.
+RL,Ralph Lauren Corporation Class A
+FTI,TechnipFMC Plc
+NBL,Noble Energy Inc.
+LEG,Leggett & Platt Incorporated
+MRO,Marathon Oil Corporation
+IVZ,Invesco Ltd.
+DISCA,Discovery Inc. Class A
+UNM,Unum Group
+HBI,Hanesbrands Inc.
+LB,L Brands Inc.
+HRB,H&R Block Inc.
+HOG,Harley-Davidson Inc.
+PVH,PVH Corp.
+APA,Apache Corporation
+KSS,Kohl's Corporation
+NCLH,Norwegian Cruise Line Holdings Ltd.
+HP,Helmerich & Payne Inc.
+UAA,Under Armour Inc. Class A
+UA,Under Armour Inc. Class C
+COTY,Coty Inc. Class A
+JWN,Nordstrom Inc.
+CPRI,Capri Holdings Limited
+GPS,Gap Inc.
+ADS,Alliance Data Systems Corporation
+NWS,News Corporation Class B
+ARNC,Arconic Corp.
+RTN,Raytheon Company
