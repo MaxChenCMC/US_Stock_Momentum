@@ -30,8 +30,8 @@
 
 
 <hr>
-7/26收盤後所篩選出的股票之近期走勢 (from FINVIZ)
-![amd,an,ktos,sam](https://i.imgur.com/YyHg2jf.png)
+9/3 收盤後所篩選出的股票之近期走勢 (from FINVIZ)
+![](./img.png)
 <hr>
 
 `進階設定`
