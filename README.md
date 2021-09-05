@@ -4,7 +4,7 @@
 
 我從自定義的價量條件與出現頻率
 
-設計出符合自己交易風格的策略
+設計出符合自己交易屬性的動能選股策略
 
 <pre>
 舊策略：
@@ -28,29 +28,27 @@
 當4個條件符合3個以上時就於隔天開盤做多
 </pre>
 
-
-<hr>
-9/3 收盤後所篩選出的股票之近期走勢 (from FINVIZ)
-
+9/3 收盤後所篩選出的股票之近期走勢 (screenshot from FINVIZ)
+<br>
 ![image](https://raw.githubusercontent.com/MaxChenCMC/US_Stock_Momentum/master/img.png)
 
-<hr>
 
-`進階設定`
+接著用`隨機森林`演算法
 
-接著用隨機森林演算法
-
-用過去一年多的資料樣本
+回測過去30個月
 
 前80%資料為訓練集
 
 後20%資料為測試集
 
-推估當特徵出現的***隔天***
+推估當特徵出現時
+與隔天漲贏Nasdaq的關係
 
-該股票***漲幅超過S&P500指數***的機率是否超過50%
+算出`FTV (Fortive Corporation)`
 
-算出 **AN** (AutoNation, Inc.)在訓練集裡有66%的準確率，測試集仍有55.9%的準確率
+訓練集準度|測試集準度|測試集ROC_AUC
+---|---|---
+0.553571|0.484127|0.479587
 
 # Tools:
 requests, yfinance, pandas, numpy, sklearn, matplotlib
