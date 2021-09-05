@@ -7,7 +7,7 @@
 設計出符合自己交易屬性的動能選股策略
 
 <pre>
-舊策略：
+strategy 'old'：
 1. 最近一個交易日跳空開高2%
 2. 過去10個交易日裡有2天跳空開高2%
 3. 最近一個交易實體K棒達3%
@@ -20,7 +20,7 @@
 </pre>
 
 <pre>
-新策略：
+strategy 'new'：
 1. 最新收盤價距離近月新高不到3%
 2. 當天紅K棒是過去10日平均實體K棒的2.5倍
 3. 當天成交量是過去5日的1.3倍
@@ -28,27 +28,24 @@
 當4個條件符合3個以上時就於隔天開盤做多
 </pre>
 
-9/3 收盤後所篩選出的股票之近期走勢 (screenshot from FINVIZ)
+strategy 'new'於9/3收盤後選出3檔股票之近期走勢 (screenshot from FINVIZ)
 <br>
 ![image](https://raw.githubusercontent.com/MaxChenCMC/US_Stock_Momentum/master/img.png)
 
 
-接著用`隨機森林`演算法
+接著用`隨機森林`對篩選出來的股票進行機器學習
 
-回測過去30個月
+將過去30個月的資料區分成訓練集(前80%)與測試集(後20%)
 
-前80%資料為訓練集
+研究特徵值與"次日漲贏Nasdaq"的關係
 
-後20%資料為測試集
-
-推估當特徵出現時
-與隔天漲贏Nasdaq的關係
-
-算出`FTV (Fortive Corporation)`
+算出 FTV (Fortive Corporation)
 
 訓練集準度|測試集準度|測試集ROC_AUC
 ---|---|---
 0.553571|0.484127|0.479587
+
+<hr>
 
 # Tools:
 requests, yfinance, pandas, numpy, sklearn, matplotlib
