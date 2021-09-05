@@ -48,4 +48,4 @@ strategy 'new'於9/3收盤後選出3檔股票之近期走勢 (screenshot from FI
 <hr>
 
 # Tools:
-requests, yfinance, pandas, numpy, sklearn, matplotlib
+requests, yfinance, pandas, sklearn
