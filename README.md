@@ -31,7 +31,9 @@
 
 <hr>
 9/3 收盤後所篩選出的股票之近期走勢 (from FINVIZ)
-![](./img.png)
+
+![image](https://raw.githubusercontent.com/MaxChenCMC/US_Stock_Momentum/master/img.png)
+
 <hr>
 
 `進階設定`
